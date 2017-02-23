@@ -5,7 +5,7 @@ date:   2016-12-28
 desc: "JDK8 - Lambda"
 keywords: "java,lambda,funtional"
 categories: [Java]
-tags: [devmwpark,lambda]
+tags: [java, JDK8, lambda]
 ---
 
 자바 8 에서는 새로운 개념이 도입되었다. 바로 메소드의 전달인자로 메소드 레퍼런스, 익명 함수를 포함한 모든 함수 를 전달 할 수 있게 되었다.
